@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"view","c":"TelaMultiplaEscolha","l":"getQuestaoMultiplaEscolha()"},{"p":"view","c":"TelaMultiplaEscolha","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"view","c":"TelaMultiplaEscolha","l":"TelaMultiplaEscolha(Dados)","u":"%3Cinit%3E(model.Dados)"}];updateSearchResults();
